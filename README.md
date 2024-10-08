@@ -1,6 +1,9 @@
 
 be able to duplicate/clone roles
 
+![image](https://github.com/user-attachments/assets/83744280-ad86-4d33-b4cc-b8775028df10)
+
+
 <!-->
 
 ## Install
